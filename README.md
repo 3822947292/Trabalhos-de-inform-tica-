@@ -1,2 +1,2 @@
 # TRABALHOS DE INFORMÁTICA
-INFORMÁTICA 
+teorias e práticas
