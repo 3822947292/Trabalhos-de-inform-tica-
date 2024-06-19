@@ -1,2 +1,2 @@
-# Trabalhos-de-inform-tica-
+# TRABALHOS DE INFORMÁTICA
 INFORMÁTICA 
