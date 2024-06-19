@@ -1,6 +1,4 @@
 # TRABALHOS DE INFORMÁTICA
-teorias e práticas
+Teorias e práticas
 # Equipe
-|    Função     | Nome              |  
-
-| Team Member   | Mariana Diniz     | 
+Mariana Diniz
